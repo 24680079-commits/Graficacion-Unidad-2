@@ -112,7 +112,7 @@ Resultado:
 P'(5, 3)
 
 ---
-
+<img width="1536" height="1024" alt="22C19EE6-908D-4950-B5F6-6D9580F87B10" src="https://github.com/user-attachments/assets/17387842-ea25-4a17-829f-0abb5606863e" />
 ## 2.2 Representación Matricial de Transformaciones Bidimensionales
 
 Las transformaciones se representan mediante matrices para facilitar su implementación en sistemas computacionales. Se utilizan coordenadas homogéneas agregando una tercera componente (1).
